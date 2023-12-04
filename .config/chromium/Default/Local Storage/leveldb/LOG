@@ -1,0 +1,27 @@
+2023/12/04-20:41:28.920 4 Reusing MANIFEST /home/lut1x/.config/chromium/Default/Local Storage/leveldb/MANIFEST-000001
+2023/12/04-20:41:28.941 4 Recovering log #274
+2023/12/04-20:41:28.947 4 Reusing old log /home/lut1x/.config/chromium/Default/Local Storage/leveldb/000274.log 
+2023/12/04-20:43:11.384 6 Level-0 table #279: started
+2023/12/04-20:43:11.393 6 Level-0 table #279: 37957 bytes OK
+2023/12/04-20:43:11.406 6 Delete type=0 #274
+2023/12/04-20:46:36.572 6 Level-0 table #281: started
+2023/12/04-20:46:36.819 6 Level-0 table #281: 18496 bytes OK
+2023/12/04-20:46:36.953 6 Delete type=0 #278
+2023/12/04-20:51:35.441 6 Level-0 table #283: started
+2023/12/04-20:51:35.449 6 Level-0 table #283: 20422 bytes OK
+2023/12/04-20:51:35.461 6 Delete type=0 #280
+2023/12/04-20:53:43.739 6 Level-0 table #285: started
+2023/12/04-20:53:43.752 6 Level-0 table #285: 179855 bytes OK
+2023/12/04-20:53:43.765 6 Delete type=0 #282
+2023/12/04-20:53:43.766 6 Compacting 4@0 + 1@1 files
+2023/12/04-20:53:43.800 6 Generated table #286@0: 560 keys, 552971 bytes
+2023/12/04-20:53:43.800 6 Compacted 4@0 + 1@1 files => 552971 bytes
+2023/12/04-20:53:43.811 6 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/12/04-20:53:43.813 6 Delete type=2 #276
+2023/12/04-20:53:43.813 6 Delete type=2 #279
+2023/12/04-20:53:43.813 6 Delete type=2 #281
+2023/12/04-20:53:43.814 6 Delete type=2 #283
+2023/12/04-20:53:43.814 6 Delete type=2 #285
+2023/12/04-21:07:13.114 6 Level-0 table #288: started
+2023/12/04-21:07:13.183 6 Level-0 table #288: 24632 bytes OK
+2023/12/04-21:07:13.253 6 Delete type=0 #284

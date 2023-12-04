@@ -1,0 +1,5 @@
+2023/12/04-20:57:40.703 88a Creating DB /home/lut1x/.config/discord/Local Storage/leveldb since it was missing.
+2023/12/04-20:58:08.610 88a Reusing MANIFEST /home/lut1x/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2023/12/04-21:02:10.144 874 Level-0 table #5: started
+2023/12/04-21:02:10.807 874 Level-0 table #5: 2715166 bytes OK
+2023/12/04-21:02:10.929 874 Delete type=0 #3

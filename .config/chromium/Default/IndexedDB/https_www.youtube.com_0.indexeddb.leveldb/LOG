@@ -1,0 +1,12 @@
+2023/11/30-12:30:49.068 30c Reusing MANIFEST /home/lut1x/.config/chromium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/11/30-12:30:49.070 30c Recovering log #30
+2023/11/30-12:30:49.095 30c Reusing old log /home/lut1x/.config/chromium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000030.log 
+2023/11/30-12:31:45.554 30d Level-0 table #35: started
+2023/11/30-12:31:45.823 30d Level-0 table #35: 1333737 bytes OK
+2023/11/30-12:31:45.834 30d Delete type=0 #30
+2023/11/30-12:33:50.964 310 Compacting 1@1 + 1@2 files
+2023/11/30-12:33:50.990 310 Generated table #36@1: 438 keys, 107026 bytes
+2023/11/30-12:33:50.990 310 Compacted 1@1 + 1@2 files => 107026 bytes
+2023/11/30-12:33:51.010 310 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/11/30-12:33:51.010 310 Delete type=2 #32
+2023/11/30-12:33:51.010 310 Delete type=2 #35
